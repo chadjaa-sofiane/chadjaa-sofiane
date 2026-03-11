@@ -1,36 +1,34 @@
-# Hi, I'm Chad
+# Hi, I'm Chadjaa Sofiane
 
-Full‑stack developer focused on clean architecture, fast delivery, and pragmatic product building.
+Full-stack software engineer based in Algeria with a background in Artificial Intelligence and hands-on experience building production web systems. I work across the entire stack, from API design and backend services to modern frontends, plus deployment and infrastructure when needed.
 
 ## What I Do
 
-- Build web apps end‑to‑end (frontend, APIs, data, deployment)
-- Design developer‑friendly systems and tooling
+- Build web apps end-to-end (frontend, APIs, data, deployment)
+- Design modular, maintainable backend systems
 - Ship iteratively with tight feedback loops
 
-## Current Focus
+## Focus
 
 - Scalable TypeScript backends
-- Modern frontend DX
-- Automation and CI improvements
+- Modern frontend DX with React
+- Infrastructure and deployment reliability
 
 ## Tech Stack
 
-- Languages: TypeScript, JavaScript, Python, SQL
-- Frontend: React, Next.js, Vite
-- Backend: Node.js, Express, NestJS
-- Data: PostgreSQL, Redis
-- DevOps: Docker, GitHub Actions
+- Languages: TypeScript, JavaScript, Java, SQL
+- Frontend: React, React Query, Axios
+- Backend: Node.js, Bun, Express.js
+- Data: PostgreSQL
+- Infra: Docker, Nginx, Linux, Keycloak
 
 ## Featured Work
 
-- Project A: Short one‑liner about impact and stack
-- Project B: Short one‑liner about impact and stack
-- Project C: Short one‑liner about impact and stack
+- Project A: Short one-liner about impact and stack
+- Project B: Short one-liner about impact and stack
+- Project C: Short one-liner about impact and stack
 
 ## GitHub Activity
-
-> Replace `YOUR_GITHUB_USERNAME` everywhere below.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chadjaa-sofiane&show_icons=true&hide_title=true&hide_rank=false&include_all_commits=true&count_private=true)
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chadjaa-sofiane&layout=compact)
@@ -45,6 +43,6 @@ Add a GitHub Action that generates a snake animation from your contribution grap
 
 ## Contact
 
-- Email: your.email@example.com
-- LinkedIn: linkedin.com/in/your-handle
-- Portfolio: yourdomain.com
+- GitHub: https://github.com/chadjaa-sofiane
+- Portfolio: https://chadjaa-sfiane-portfolio.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/sofiane-chadjaa/
